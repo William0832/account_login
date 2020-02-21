@@ -47,4 +47,4 @@ npm install
 npm run dev
 ```
 
-5. **檢視 Terminal 訊息：Express server is listen [localhost:3000](http://localhost:3000)**
+5. **檢視 Terminal 訊息：Express server is listen on [localhost:3000](http://localhost:3000)**
